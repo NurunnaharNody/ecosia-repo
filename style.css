@@ -1,0 +1,43 @@
+.body{
+    
+    font-family: 'Oswald', sans-serif;
+} 
+
+
+.image{
+    height: 10%;
+    width:20%;
+    margin-left: 540px;
+    margin-top: 5px;
+}
+.search{
+
+   text-align: center;
+   margin-top: 10px;
+   font-size: large;
+}
+h2{
+    color: blueviolet;
+}
+.add-eco{
+    text-decoration: none;
+    background-image: linear-gradient(blue,rgb(72, 178, 248));
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.section1{
+    display: flex;
+    padding: 180px;
+    margin-top: 60px;
+    font-size: 20px;
+    background-image: url(bg.jpg);
+   
+}
+.clipart{
+
+    width:25%;
+    height:50%;
+    margin-right: 100px;
+    margin-left:300px;
+}
